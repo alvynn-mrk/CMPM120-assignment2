@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+.pnpm-store/
+
+# Build artifacts
+dist/
+build/
+out/
+.vite/
+
+# Editor and OS generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Other common temporary or generated files
+*.log
+*.tmp
+*.bak
