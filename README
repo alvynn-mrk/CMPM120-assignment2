@@ -1,0 +1,20 @@
+STAR DEFENDER - Gallery Shooter
+
+CONTROLS
+- Left / Right arrow keys (or A / D): move your ship along the bottom of the screen
+- Space: fire laser (hold to auto-fire)
+- Enter: restart after Game Over
+
+THEMING / SCORING
+Space theme. You defend Earth from waves of alien ships.
+- Grunt (black ship): 10 points, 1 hit to destroy. Stays in formation and fires straight down.
+- Diver (red ship): 30 points, 2 hits to destroy. Periodically peels off from the
+  formation, swoops down a curved path toward you, fires aimed shots, then re-enters
+  from the top of the screen.
+- You have 5 health (hearts, top right). Enemy lasers cost 1 health; ramming a diver
+  costs 1 health. You are briefly invulnerable (blinking) after a hit.
+- Score is shown top left. Clearing all enemies shows "WAVE CLEARED", pauses, then
+  repeats the same level layout with slightly faster, more frequent enemy fire.
+- When health reaches 0, a Game Over screen shows your score; press Enter to reset.
+
+Downloaded most from Space Shooter Redux
